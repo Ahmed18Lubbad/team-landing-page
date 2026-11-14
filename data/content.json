@@ -1,0 +1,131 @@
+{
+  "theme": {
+    "colors": {
+      "ink": "#171A21",
+      "paper": "#F7F6F2",
+      "accent": "#1F5C4C",
+      "accentSecondary": "#B5542B",
+      "hairline": "#DAD6CC",
+      "muted": "#5B5E57"
+    }
+  },
+  "site": {
+    "name": "Birchwood Collective",
+    "logoText": "Birchwood",
+    "tagline": "A small studio building considered digital products.",
+    "metaDescription": "Birchwood Collective is a small, independent product studio. Meet the people who design, build, and ship our work.",
+    "navLinks": [
+      { "label": "About", "href": "#about" },
+      { "label": "Team", "href": "#team" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "headline": "We build products with the people who use them.",
+    "subheadline": "Birchwood is a small, independent team covering project coordination, MEAL, IT support, and software development. We partner with a handful of teams at a time, end to end, from first sketch to shipped product.",
+    "primaryCta": { "label": "Meet the team", "href": "#team" },
+    "secondaryCta": { "label": "Start a project", "href": "#contact" },
+    "image": {
+      "src": "/images/hero/studio.jpg",
+      "alt": "The Birchwood studio workspace"
+    },
+    "stats": [
+      { "value": "11", "label": "Years in practice" },
+      { "value": "40+", "label": "Products shipped" },
+      { "value": "3", "label": "People, on purpose" }
+    ]
+  },
+  "about": {
+    "heading": "A studio, not an agency.",
+    "body": [
+      "We stay small by design. Every project is staffed by people who stay with it from the first sketch to the day it ships \u2014 no handoffs, no rotating cast.",
+      "That means we're selective about the work we take on. We look for teams who want a genuine partner, not a vendor, and problems that reward careful thinking over fast turnaround."
+    ],
+    "highlights": [
+      {
+        "title": "Depth over headcount",
+        "description": "Small teams, deeply embedded, for the length of the engagement."
+      },
+      {
+        "title": "Design and engineering, together",
+        "description": "The same people who design the product build it, so nothing is lost in translation."
+      },
+      {
+        "title": "A handful of clients at a time",
+        "description": "We take on only what we can give full attention, usually three or four projects a year."
+      }
+    ],
+    "image": {
+      "src": "/images/hero/about.jpg",
+      "alt": "Two Birchwood team members reviewing a design on paper"
+    }
+  },
+  "team": {
+    "heading": "The people behind the work.",
+    "subheading": "Three of us so far, covering project coordination, MEAL, IT support, and web development. Each bio links to a portfolio with more of their work.",
+    "members": [
+      {
+        "id": "ahmed-lubbad",
+        "name": "Ahmed Mahmoud Mohammad Lubbad",
+        "role": "Team Leader",
+        "photo": {
+          "src": "/images/team/ahmed-lubbad.jpg",
+          "alt": "Portrait of Ahmed Mahmoud Mohammad Lubbad"
+        },
+        "bio": "Ahmed coordinates humanitarian projects and community initiatives in Gaza, bringing together MEAL, data management, and digital safety across health education, protection, and community development programs. He also builds web applications and management tools alongside this work.",
+        "portfolio": { "label": "View portfolio", "href": "https://ahmed18lubbad.github.io/" },
+        "social": [
+          { "platform": "LinkedIn", "href": "https://www.linkedin.com/in/%D8%A3%D8%AD%D9%85%D8%AF-%D9%84%D8%A8%D8%AF-247481449" },
+          { "platform": "GitHub", "href": "https://github.com/Ahmed18Lubbad" }
+        ]
+      },
+      {
+        "id": "ahmed-almuqayed",
+        "name": "Ahmed Yousef Almouqaid",
+        "role": "IT Support & Networking",
+        "photo": {
+          "src": "/images/team/ahmed-almuqayed.png",
+          "alt": "Portrait of Ahmed Yousef Almouqaid"
+        },
+        "bio": "Ahmed is an IT graduate with hands-on experience in computer and network maintenance, plus backend web development with Laravel and PHP. He also has data-entry and reporting experience in humanitarian settings.",
+        "portfolio": { "label": "View portfolio", "href": "https://ahmedno1.github.io/My-CV/" },
+        "social": [
+          { "platform": "LinkedIn", "href": "https://www.linkedin.com/in/ahmed-softwaredevelopment/" },
+          { "platform": "GitHub", "href": "https://github.com/ahmedno1" }
+        ]
+      },
+      {
+        "id": "mahmoud-srour",
+        "name": "Mahmoud Mohamed Mustafa Srour",
+        "role": "Web Developer — PHP, Laravel & React",
+        "photo": {
+          "src": "/images/team/mahmoud-srour.png",
+          "alt": "Portrait of Mahmoud Mohamed Mustafa Srour"
+        },
+        "bio": "Mahmoud builds responsive web applications, RESTful APIs, and database-driven systems with Laravel, React, and JavaScript, with projects spanning car-rental platforms, volunteer management systems, and API integrations.",
+        "portfolio": { "label": "View portfolio", "href": "https://my-portfolio-6a51.onrender.com/" },
+        "social": [
+          { "platform": "LinkedIn", "href": "https://www.linkedin.com/in/mahmoud-srour13042003" },
+          { "platform": "GitHub", "href": "https://github.com/000SMS000" }
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Have a project in mind?",
+    "body": "We take on a small number of new engagements each year. Tell us what you're working on and we'll let you know if we're a fit.",
+    "button": { "label": "Get in touch", "href": "mailto:hello@birchwoodcollective.com" }
+  },
+  "footer": {
+    "text": "Birchwood Collective. A small studio, on purpose.",
+    "links": [
+      { "label": "About", "href": "#about" },
+      { "label": "Team", "href": "#team" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "social": [
+      { "platform": "LinkedIn", "href": "https://linkedin.com/company/birchwood-collective" },
+      { "platform": "Instagram", "href": "https://instagram.com/birchwoodcollective" }
+    ]
+  }
+}
